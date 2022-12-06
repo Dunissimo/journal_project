@@ -1,0 +1,14 @@
+.home {
+  padding: 1rem;
+  padding-top: 5rem;
+  padding-bottom: 2rem;
+}
+.subject-link {
+  text-transform: uppercase;
+  color: black;
+  font-size: 1rem;
+  font-weight: 700;
+}
+.subject-link:hover {
+  color: blue;
+}

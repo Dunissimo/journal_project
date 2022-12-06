@@ -123,3 +123,47 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+.html,
+body,
+#root {
+  height: 100%;
+  overflow-x: hidden;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+.main {
+  flex: 1 0 auto;
+}
+
+.header {
+  display: flex;
+  align-items: flex-end;
+  background-color: #011f26;
+  color: white;
+  padding: 2rem;
+}
+.header .logo {
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s ease;
+}
+
+.header .logo:hover {
+  color: gray;
+}
+
+.header h1 {
+  margin-left: 1rem;
+  font-size: 2rem;
+}
+
+.footer {
+  flex: 0 0 auto;
+  background-color: #626360;
+  color: white;
+  padding: 1rem;
+}
