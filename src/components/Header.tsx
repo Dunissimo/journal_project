@@ -1,5 +1,7 @@
+import { Button } from "antd";
 import { FC } from "react";
 import { Link } from "react-router-dom";
+import { pushData } from "../utils/pushData";
 
 const Header: FC = () => {
   return (
@@ -14,6 +16,8 @@ const Header: FC = () => {
       <Link to="/" className="logo">
         <h1>Электронный журнал</h1>
       </Link>
+      {/* <Button onClick={() => pushData()}>push</Button> */}
+      {/* TODO: запросы делаются при каждом обновлении страницы, испавить */}
     </div>
   );
 };

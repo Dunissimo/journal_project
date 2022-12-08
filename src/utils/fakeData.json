@@ -1,0 +1,1954 @@
+{
+  "users": [
+    {
+      "id": "bortnikovroman",
+      "displayName": "Бортников Роман",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "gusarovsergey",
+      "displayName": "Гусаров Сергей",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "drozdovaanastasia",
+      "displayName": "Дроздова Анастасия",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "dubininasofia",
+      "displayName": "Дубинина София",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "izukovadaria",
+      "displayName": "Изюкова Дарья",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "kalimovartem",
+      "displayName": "Калимов Артём",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "kirakosyanashot",
+      "displayName": "Киракосян Ашот",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "kovalevaanastasia",
+      "displayName": "Ковалева Анастасия",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "konkinmaksim",
+      "displayName": "Конкин Максим",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "kushtelkirill",
+      "displayName": "Куштель Кирилл",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "lednevyura",
+      "displayName": "Леднев Юрий",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "marupovascar",
+      "displayName": "Марупов Аскар",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "mosvindenis",
+      "displayName": "Денис Москвин",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "nikitinaanastasia",
+      "displayName": "Никитина Анастасия",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "samusevoleg",
+      "displayName": "Самусев Олег",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "safiulinaanastasia",
+      "displayName": "Сафиулина Анастасия",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "selinivan",
+      "displayName": "Селин Иван",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "sosnovskiyyura",
+      "displayName": "Сосновский Юрий",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "suleymanovtimur",
+      "displayName": "Сулейманов Тимур",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "tuhtarovtalan",
+      "displayName": "Тухтаров Талан",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "fedichevaanastasia",
+      "displayName": "Федичева Анастасия",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "fedoseevilya",
+      "displayName": "Федосеев Илья",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "celenkovaanastasia",
+      "displayName": "Целенкова Анастасия",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "cheremushkinmaksim",
+      "displayName": "Черемушкин Максим",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    },
+    {
+      "id": "cherkasovivan",
+      "displayName": "Черкасов Иван",
+      "subjects": {
+        "maths": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "computer": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "history": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "physics": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "astronomy": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "literature": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "lsf": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "finance": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "pe": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "social": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "foreign": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        },
+        "russian": {
+          "september": {},
+          "october": {},
+          "november": {},
+          "december": {}
+        }
+      }
+    }
+  ]
+}

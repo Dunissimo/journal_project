@@ -1,0 +1,39 @@
+.subject {
+  padding: 1.5rem;
+}
+
+.table,
+.table th,
+.table td {
+  border: 1px solid rgb(48, 3, 70);
+}
+
+.table thead {
+  /* border: 2px solid #000; */
+  background-color: gray;
+  color: white;
+}
+.table,
+.table thead {
+  border: 2px solid black;
+}
+
+.table {
+  width: 100%;
+}
+.table td {
+  text-align: center;
+}
+
+.table td,
+.table th {
+  white-space: nowrap;
+  padding: 1rem 0;
+}
+
+@media (min-width: 1200px) {
+  .table td,
+  .table th {
+    padding: 1rem;
+  }
+}
